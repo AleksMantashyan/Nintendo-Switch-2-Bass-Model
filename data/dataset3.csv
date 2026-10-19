@@ -1,0 +1,11 @@
+fiscal_year_end,new_adopters_m,cumulative_adopters_m,type,source_or_basis
+2026,19.86,19.86,Actual,https://www.nintendo.co.jp/ir/pdf/2026/260508e.pdf
+2027,18.22230328399374,38.08230328399374,Forecast,"Bass model using p, q, and M estimated from dataset1.csv"
+2028,22.183128444571313,60.26543172856505,Forecast,"Bass model using p, q, and M estimated from dataset1.csv"
+2029,24.72176649275084,84.9871982213159,Forecast,"Bass model using p, q, and M estimated from dataset1.csv"
+2030,24.597246669426315,109.5844448907422,Forecast,"Bass model using p, q, and M estimated from dataset1.csv"
+2031,21.383296213903453,130.96774110464565,Forecast,"Bass model using p, q, and M estimated from dataset1.csv"
+2032,16.084828039373825,147.0525691440195,Forecast,"Bass model using p, q, and M estimated from dataset1.csv"
+2033,10.564116537869241,157.61668568188873,Forecast,"Bass model using p, q, and M estimated from dataset1.csv"
+2034,6.221151316236298,163.83783699812503,Forecast,"Bass model using p, q, and M estimated from dataset1.csv"
+2035,3.3976128235562952,167.23544982168133,Forecast,"Bass model using p, q, and M estimated from dataset1.csv"
